@@ -19,21 +19,22 @@ The data for this project is sourced from the Kaggle dataset:
 - Netflix Movies and TV Shows:[Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 # Schema
-CREATE DATABASE netflix;
-CREATE TABLE netflix_titles (
-    show_id VARCHAR(20),
-    type VARCHAR(50),
-    title VARCHAR(255),
-    director VARCHAR(255),
-    cast TEXT,
-    country VARCHAR(255),
-    date_added VARCHAR(50),
-    release_year INT,
-    rating VARCHAR(20),
-    duration VARCHAR(50),
-    listed_in VARCHAR(255),
-    description TEXT
-);
+        CREATE DATABASE netflix;
+            CREATE TABLE netflix_titles (
+                show_id VARCHAR(20),
+                type VARCHAR(50),
+                title VARCHAR(255),
+                director VARCHAR(255),
+                cast TEXT,
+                country VARCHAR(255),
+                date_added VARCHAR(50),
+                release_year INT,
+                rating VARCHAR(20),
+                duration VARCHAR(50),
+                listed_in VARCHAR(255),
+                description TEXT
+            );
+
 
 # Business Problems and Solutions. 
 
