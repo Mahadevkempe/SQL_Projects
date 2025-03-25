@@ -15,7 +15,8 @@ Explore and categorize content based on specific criteria and keywords.
 # Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: Movies Dataset
+
+- [Dataset Link:](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows/Netflix.xlsx)
 
 # Schema
 CREATE DATABASE netflix;
