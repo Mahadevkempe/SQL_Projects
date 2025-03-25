@@ -18,8 +18,7 @@ The data for this project is sourced from the Kaggle dataset:
 Dataset Link: Movies Dataset
 
 # Schema
-
--- CREATE DATABASE netflix;
+CREATE DATABASE netflix;
 CREATE TABLE netflix_titles (
     show_id VARCHAR(20),
     type VARCHAR(50),
@@ -33,16 +32,16 @@ CREATE TABLE netflix_titles (
     duration VARCHAR(50),
     listed_in VARCHAR(255),
     description TEXT
-);  
+);
 
 # Business Problems and Solutions. 
 
 # 1. What is the Total Number of Movies and TV Shows on Netflix?
-      SELECT 
-    type, COUNT(*)
-FROM
-    netflix_titles
-GROUP BY type;
+    SELECT 
+          type, COUNT(*)
+    FROM
+          netflix_titles
+    GROUP BY type; 
 
 
 
