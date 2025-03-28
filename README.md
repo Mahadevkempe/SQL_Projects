@@ -1,6 +1,9 @@
 # Netflix Movies and TV Shows Data Analysis using SQL  
 ![Netflix.logo](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows/Logo.png)
 
+# Problem Statement:
+Netflix is a leading streaming platform that continuously expands its content library. To maintain its competitive edge, Netflix needs to gain actionable insights into its content portfolio. The goal is to analyze the distribution of movies and TV shows, understand content trends, identify popular genres, and evaluate regional content preferences
+
 # Overview
 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -39,11 +42,7 @@ The data for this project is sourced from the Kaggle dataset:
                 description TEXT
             );
 
-
-# Business Problem and Solutions. 
-
-# Problem Statement:
-Netflix is a leading streaming platform that continuously expands its content library. To maintain its competitive edge, Netflix needs to gain actionable insights into its content portfolio. The goal is to analyze the distribution of movies and TV shows, understand content trends, identify popular genres, and evaluate regional content preferences
+# SQL Queries for Netflix Data Analysis.
 
 # 1. What is the Total Number of Movies and TV Shows on Netflix?
 
