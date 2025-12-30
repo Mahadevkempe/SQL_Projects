@@ -2,7 +2,7 @@
 ![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
 # Business Goal 
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
- 
+
 # What i Analyzed (Scope of Analysis)
 Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
@@ -135,8 +135,11 @@ Insight:
 
 ➡️ Delivery is acceptable, but returns suggest post-delivery issues.
 
-# Final Business Conclusion :
+#  Conclusion :
 
 The business is generating strong revenue and stable order volume, but high return rates are impacting net profitability. 
 Regions like North and promotion-based sales contribute most revenue but also cause higher returns. Optimizing promotions, 
-improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency.
+improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency. 
+
+
+
