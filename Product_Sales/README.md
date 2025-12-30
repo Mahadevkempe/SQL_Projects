@@ -32,7 +32,9 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
  -Total Units Sold: 15,616,
 
--Insight: Business has strong sales volume, but needs improvement in quality & returns.
+-Insight:
+
+ ➡️Business has strong sales volume, but needs improvement in quality & returns.
 
 # 2. Return Analysis 
 
@@ -41,7 +43,8 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
  -Return Rate: 24.8% (Very High)
 
 -Insight:
- -Nearly 1 out of 4 orders is returned, indicating:
+
+ ➡️Nearly 1 out of 4 orders is returned, indicating:
 
 -Product mismatch,
 
@@ -59,6 +62,7 @@ This is a major revenue leakage area.
  -Highest Return Rate: North (77.3%)
  
 -Insight:
+
 ➡️ North generates high revenue but also highest returns.
   
 ➡️ Needs quality control & logistics improvement.
@@ -73,6 +77,7 @@ Top promotions by revenue:
  -Save10 – ₹0.99M
  
 Insight:
+
 ➡️ Free shipping performs best,
 
 ➡️ Promotions drive revenue but may increase returns.
