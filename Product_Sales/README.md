@@ -3,8 +3,11 @@
 
  # Project overview:
  product sales  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
+ 
  SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
- Excel Analysis : [Excel_dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Dashboard.png)  
+ 
+ Excel Analysis : [Excel_dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Dashboard.png) 
+ 
  Project Report : [Product Sales Performance Analysis Report](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product%20Sales%20Performance%20Analysis%20Report.pdf) 
 
  # Business Goal 
