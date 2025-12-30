@@ -92,6 +92,7 @@ Insight:
 Insight:
 
 ➡️ Both segments contribute almost equally.
+
 ➡️ Opportunity to design separate strategies for each.
 
 # 6. Salesperson Performance
@@ -105,4 +106,28 @@ Insight:
 Insight:
 
 ➡️ Performance difference is not huge.
+
 ➡️ Can use top performers as benchmarks.
+# 7. Time-based Trends
+
+ -Best month: March,
+
+ -Weak months: October–December,
+
+ -2024 revenue > 2023,
+
+ -2025 partial data.
+ Insight:
+ 
+ ➡️ Clear seasonality.
+ 
+ ➡️ Sales peak in Q1–Q2.
+
+ # 8. Operations Insight
+
+ -Avg Delivery Time: ~6 days,
+
+ -Avg Shipping Cost: ₹27.51,
+ Insight:
+
+➡️ Delivery is acceptable, but returns suggest post-delivery issues.
