@@ -1,6 +1,12 @@
 # Product_sales Analysis using SQL and EXCEL 
 ![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
-# Business Goal 
+
+ # Project overview:
+ product sales  : ![Dataset](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
+ SQL Anaysis    : ![Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
+ Excel Analysis : ![Excel_dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Dashboard.png)  
+
+ # Business Goal 
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
 
 # What i Analyzed (Scope of Analysis)
@@ -140,6 +146,7 @@ Insight:
 The business is generating strong revenue and stable order volume, but high return rates are impacting net profitability. 
 Regions like North and promotion-based sales contribute most revenue but also cause higher returns. Optimizing promotions, 
 improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency. 
+
 
 
 
