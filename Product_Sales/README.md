@@ -2,7 +2,7 @@
 ![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
 
  # Project overview:
- product sales  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
+ Product Sales  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
  
  SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
  
