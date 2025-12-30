@@ -24,15 +24,15 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
 # Key Business Insights 
 # 1. Overall Performance
- -Total Revenue: ₹4.38M
+ -Total Revenue: ₹4.38M,
 
- -Total Orders: 1500
+ -Total Orders: 1500,
 
- -AOV: ₹2919.99
+ -AOV: ₹2919.99,
 
- -Total Units Sold: 15,616
+ -Total Units Sold: 15,616,
 
-➡️ Business has strong sales volume, but needs improvement in quality & returns.
+-Insight: Business has strong sales volume, but needs improvement in quality & returns.
 
 # 2. Return Analysis 
 
@@ -40,8 +40,11 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
  -Return Rate: 24.8% (Very High)
 
-➡️ Nearly 1 out of 4 orders is returned, indicating:
+-Insight: Nearly 1 out of 4 orders is returned, indicating:
 -Product mismatch,
+
 -Delivery issues,
+
 -Promotion-driven low-quality orders,
+
 This is a major revenue leakage area.
