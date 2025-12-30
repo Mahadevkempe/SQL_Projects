@@ -117,6 +117,7 @@ Insight:
  -2024 revenue > 2023,
 
  -2025 partial data.
+ 
  Insight:
  
  ➡️ Clear seasonality.
@@ -128,6 +129,13 @@ Insight:
  -Avg Delivery Time: ~6 days,
 
  -Avg Shipping Cost: ₹27.51,
+ 
  Insight:
 
 ➡️ Delivery is acceptable, but returns suggest post-delivery issues.
+
+# Final Business Conclusion :
+
+The business is generating strong revenue and stable order volume, but high return rates are impacting net profitability. 
+Regions like North and promotion-based sales contribute most revenue but also cause higher returns. Optimizing promotions, 
+improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency.
