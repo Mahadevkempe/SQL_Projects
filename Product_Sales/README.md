@@ -40,7 +40,9 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
  -Return Rate: 24.8% (Very High)
 
--Insight: Nearly 1 out of 4 orders is returned, indicating:
+-Insight:
+ -Nearly 1 out of 4 orders is returned, indicating:
+
 -Product mismatch,
 
 -Delivery issues,
@@ -48,3 +50,31 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 -Promotion-driven low-quality orders,
 
 This is a major revenue leakage area.
+# 3. Region-wise Performance
+
+ -Highest Revenue: North (₹967K)
+
+ -Lowest Revenue: South (₹827K)
+
+ -Highest Return Rate: North (77.3%)
+ 
+-Insight:
+➡️ North generates high revenue but also highest returns.
+  
+➡️ Needs quality control & logistics improvement.
+
+ # 4. Promotion Performance
+Top promotions by revenue:
+
+ -Freeship – ₹1.23M
+
+ -Winter15 – ₹1.07M
+
+ -Save10 – ₹0.99M
+ 
+Insight:
+➡️ Free shipping performs best,
+
+➡️ Promotions drive revenue but may increase returns.
+
+➡️ Promotions should be optimized, not blindly increased.
