@@ -39,9 +39,9 @@ Insight:
 
 # 2. Return Analysis 
 
- -Returned Orders: 372
+ -Returned Orders: 372,
 
- -Return Rate: 24.8% (Very High)
+ -Return Rate: 24.8% (Very High),
 
 Insight:
 
@@ -56,11 +56,11 @@ Insight:
  ➡️ This is a major revenue leakage area.
 # 3. Region-wise Performance
 
- -Highest Revenue: North (₹967K)
+ -Highest Revenue: North (₹967K),
 
- -Lowest Revenue: South (₹827K)
+ -Lowest Revenue: South (₹827K),
 
- -Highest Return Rate: North (77.3%)
+ -Highest Return Rate: North (77.3%),
  
 Insight:
 
@@ -71,11 +71,11 @@ Insight:
  # 4. Promotion Performance
 Top promotions by revenue:
 
- -Freeship – ₹1.23M
+ -Freeship – ₹1.23M,
 
- -Winter15 – ₹1.07M
+ -Winter15 – ₹1.07M,
 
- -Save10 – ₹0.99M
+ -Save10 – ₹0.99M,
  
 Insight:
 
