@@ -32,7 +32,7 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
  -Total Units Sold: 15,616,
 
--Insight:
+Insight:
 
  ➡️Business has strong sales volume, but needs improvement in quality & returns.
 
@@ -42,17 +42,17 @@ Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
  -Return Rate: 24.8% (Very High)
 
--Insight:
+Insight:
 
- ➡️Nearly 1 out of 4 orders is returned, indicating:
-
+ ➡️ Nearly 1 out of 4 orders is returned, indicating:
+ 
 -Product mismatch,
 
 -Delivery issues,
 
--Promotion-driven low-quality orders,
+-Promotion-driven low-quality orders.
 
-This is a major revenue leakage area.
+ ➡️ This is a major revenue leakage area.
 # 3. Region-wise Performance
 
  -Highest Revenue: North (₹967K)
@@ -61,7 +61,7 @@ This is a major revenue leakage area.
 
  -Highest Return Rate: North (77.3%)
  
--Insight:
+Insight:
 
 ➡️ North generates high revenue but also highest returns.
   
@@ -78,8 +78,31 @@ Top promotions by revenue:
  
 Insight:
 
-➡️ Free shipping performs best,
+➡️ Free shipping performs best.
 
 ➡️ Promotions drive revenue but may increase returns.
 
-➡️ Promotions should be optimized, not blindly increased.
+➡️ Promotions should be optimized, not blindly increased. 
+# 5. Customer Type Analysis
+
+ -Retail: ₹2.19M,
+
+ -Wholesale: ₹2.18M,
+ 
+Insight:
+
+➡️ Both segments contribute almost equally.
+➡️ Opportunity to design separate strategies for each.
+
+# 6. Salesperson Performance
+
+ -Top performers:
+
+ -Bob – ₹796K,
+
+ -Alice – ₹786K,
+ 
+Insight:
+
+➡️ Performance difference is not huge.
+➡️ Can use top performers as benchmarks.
