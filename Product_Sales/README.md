@@ -6,18 +6,42 @@
 Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
 # 1.Sales Performance
--Total Revenue
--Total Orders
--Average Order Value (AOV)
--Total Units Sold
+-Total Revenue,
+-Total Orders,
+-Average Order Value (AOV),
+-Total Units Sold.
 # 2.Customer & Operations
--Return Rate (%)
--Average Delivery Time
--Average Shipping Cost
--Customer Type performance 
+-Return Rate (%),
+-Average Delivery Time,
+-Average Shipping Cost,
+-Customer Type performance.
 # 3.Business Dimensions
--Revenue by Region
--Revenue by Product
--Revenue by Salesperson
--Promotion performance
--Year-wise & Month-wise revenue trend
+-Revenue by Region,
+-Revenue by Product,
+-Revenue by Salesperson,
+-Promotion performance,
+-Year-wise & Month-wise revenue trend.
+
+# Key Business Insights 
+# 1. Overall Performance
+ -Total Revenue: ₹4.38M
+
+ -Total Orders: 1500
+
+ -AOV: ₹2919.99
+
+ -Total Units Sold: 15,616
+
+➡️ Business has strong sales volume, but needs improvement in quality & returns.
+
+# 2. Return Analysis 
+
+ -Returned Orders: 372
+
+ -Return Rate: 24.8% (Very High)
+
+➡️ Nearly 1 out of 4 orders is returned, indicating:
+-Product mismatch,
+-Delivery issues,
+-Promotion-driven low-quality orders,
+This is a major revenue leakage area.
