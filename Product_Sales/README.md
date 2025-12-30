@@ -2,9 +2,10 @@
 ![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
 
  # Project overview:
- product sales  : ![Dataset](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
- SQL Anaysis    : ![Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
- Excel Analysis : ![Excel_dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Dashboard.png)  
+ product sales  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv)
+ SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
+ Excel Analysis : [Excel_dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Dashboard.png)  
+ Project Report : [Product Sales Performance Analysis Report](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product%20Sales%20Performance%20Analysis%20Report.pdf) 
 
  # Business Goal 
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
