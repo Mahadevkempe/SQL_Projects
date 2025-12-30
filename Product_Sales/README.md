@@ -2,6 +2,7 @@
 ![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
 # Business Goal 
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
+ 
 # What i Analyzed (Scope of Analysis)
 Using SQL for data analysis and Excel for dashboarding, i Analyzed:
 
