@@ -13,7 +13,10 @@ and promotion effectiveness, impacting decision-making.
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
 
 ## Dataset Information
-- Orders, products, regions, promotions, returns, delivery data
+- OrderID, -RegionProduct, -Quantity-UnitPrice, -TotalPrice, -CustomerType, -Promotion, -Returned, -ShippingCost, -OrderDate, -DeliveryDate, -Salesperson, -PaymentMethod.
+   
+- Total records: 1,500
+  
   
 - Total records: 1,500
   
@@ -57,7 +60,6 @@ and promotion effectiveness, impacting decision-making.
 
 
 ##  Conclusion :
-
 The business is generating strong revenue and stable order volume, but high return rates are impacting net profitability. 
 Regions like North and promotion-based sales contribute most revenue but also cause higher returns. Optimizing promotions, 
 improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency. 
