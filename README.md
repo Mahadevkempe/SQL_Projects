@@ -17,9 +17,6 @@ and promotion effectiveness, impacting decision-making.
    
 - Total records: 1,500
   
-  
-- Total records: 1,500
-  
  ## Tools & Technologies
 - MySQL
   
