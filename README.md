@@ -5,17 +5,19 @@
 This project analyzes sales data to understand revenue trends, return behavior,
 promotion performance, and regional sales insights using SQL and Excel
 
+## Business Problem
+The business lacked clear visibility into revenue drivers, return rates,
+and promotion effectiveness, impacting decision-making.
+
 ## Business Goal 
  The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales. 
 
 ## Dataset Information
-
 - Orders, products, regions, promotions, returns, delivery data
   
 - Total records: 1,500
   
  ## Tools & Technologies
- 
 - MySQL
   
 - SQL
@@ -25,7 +27,6 @@ promotion performance, and regional sales insights using SQL and Excel
 - Pivot Tables & Charts
 - 
   ## Key KPIs
-  
 - Total Revenue
   
 - Total Orders
@@ -37,7 +38,6 @@ promotion performance, and regional sales insights using SQL and Excel
 - Average Delivery Time
 
 ## Key Insights
-
 - High return rate of 24.8% identified
   
 - North region generates highest revenue but also highest returns
